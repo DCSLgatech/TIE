@@ -14,7 +14,7 @@ catkin_make
 ```
 For running a 2D planning case, do
 ```
-rosrun tie relregion_visualize
+rosrun tie toy2d_propogate_test
 python plothpath.py
 ```
 to quickly plot the graph and solution.
