@@ -34,6 +34,11 @@
 
 /* Authors: Zakary Littlefield */
 
+/* This SST code has been modified to solve time-optimal planning problem by considering time edge-costs
+   Author: Sagar Joshi 
+*/
+
+
 #include "tsst/TSST.h"
 
 #include "ompl/base/goals/GoalState.h"
